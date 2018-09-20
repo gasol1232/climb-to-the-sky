@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+    margin: auto 0 0;
+    background-image: url('../images/background2.jpg')
+}
+
+h1 {
+    font-family: 'Helvetica', cursive;
+}
